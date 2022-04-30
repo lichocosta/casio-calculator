@@ -1,0 +1,10 @@
+.clear-button {
+  background-color: #ff7600 !important;
+  flex: none;
+  width: 90px;
+
+}
+
+.clear-button:hover {
+  background-color: #ebb000 !important;
+}

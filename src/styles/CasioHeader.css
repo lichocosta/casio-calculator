@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 0;
+}
+
+.logo {
+  width: 125px;
+  filter: invert(100%);
+}
+
+.solar {
+  display: flex;
+  border: 5px solid #181818;
+}
+
+.solar span {
+  width: 25px;
+  height: 25px;
+  background-color: rgb(37, 15, 0);
+}
+
+.border-yellow {
+  border-left: 1px solid #77780f;
+}
